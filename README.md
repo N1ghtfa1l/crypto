@@ -1,4 +1,4 @@
-<b>Frontend</b>
-React/TypeScript/Tailwind
-<b>Backend</b>
-FastApi/async-lru
+<b>Frontend</b> <br>
+React/TypeScript/Tailwind <br>
+<b>Backend</b> <br>
+FastApi/async-lru <br>
